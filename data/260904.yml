@@ -7,7 +7,7 @@ about:
   head: b0637c9
   archived: false
   latestVersion: v0.1.7
-  collectedAt: 2026-09-04T19:27:44Z
+  collectedAt: 2026-09-04T21:03:10Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-09-02
@@ -88,5 +88,73 @@ total:
   openIssue: 17
   commit: 572
 ---
+path: /home/runner/.x-repo/github.com/Kuberwastaken/claurst
+collectedAt: 2026-09-04T21:03:12Z
+loc:
+  Rust:
+    code: 115579
+    comments: 9990
+    blanks: 14025
+    files: 294
+  Css:
+    code: 566
+    comments: 23
+    blanks: 48
+    files: 2
+  Toml:
+    code: 566
+    comments: 54
+    blanks: 62
+    files: 13
+  Sh:
+    code: 564
+    comments: 25
+    blanks: 20
+    files: 2
+  JavaScript:
+    code: 538
+    comments: 16
+    blanks: 56
+    files: 3
+  TypeScript:
+    code: 446
+    comments: 33
+    blanks: 58
+    files: 5
+  Html:
+    code: 335
+    comments: 11
+    blanks: 36
+    files: 4
+  PowerShell:
+    code: 308
+    comments: 45
+    blanks: 40
+    files: 2
+  Json:
+    code: 246
+    comments: 0
+    blanks: 0
+    files: 8
+  Python:
+    code: 194
+    comments: 16
+    blanks: 44
+    files: 2
+  Markdown:
+    code: 0
+    comments: 20247
+    blanks: 9430
+    files: 34
+  Text:
+    code: 0
+    comments: 33
+    blanks: 5
+    files: 1
+total:
+  code: 126661
+  comments: 38630
+  blanks: 24978
+  files: 370
 ---
 
