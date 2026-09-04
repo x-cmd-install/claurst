@@ -1,22 +1,24 @@
 about:
-  description: Agentic Coding for Builders who Ship
+  description:
+  |
+    Agentic Coding for Builders who Ship
   license: GPL-3.0
   homepage: https://claurst.kuber.studio/
   head: b0637c9
   archived: false
   latestVersion: v0.1.7
-  collectedAt: 2026-09-04T04:21:11Z
+  collectedAt: 2026-09-04T19:27:44Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-09-02
   lastRelease: 2026-07-06
 popularity:
-  star: 10291
+  star: 10290
   watcher: 113
-  fork: 7753
+  fork: 7752
   release: 10
   contributor: 29
-  pullRequest: 105
+  pullRequest: 250
   issue: 153
 language:
   Rust: 5700658
@@ -28,7 +30,7 @@ language:
   PowerShell: 14019
   Python: 8899
   Dockerfile: 205
-totalLine: 5836844
+totalBytes: 5836844
 recent:
   last30d:
     since: 2026-08-05
@@ -38,6 +40,14 @@ recent:
     closedIssue: 0
     openIssue: 7
     commit: 14
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 51
+    openPR: 14
+    closedIssue: 17
+    openIssue: 8
+    commit: 62
   last90d:
     since: 2026-06-06
     release: 3
@@ -62,3 +72,21 @@ recent:
     closedIssue: 136
     openIssue: 17
     commit: 497
+  last720d:
+    since: 2024-09-14
+    release: 10
+    mergedPR: 145
+    openPR: 14
+    closedIssue: 136
+    openIssue: 17
+    commit: 572
+total:
+  release: 10
+  mergedPR: 145
+  openPR: 14
+  closedIssue: 136
+  openIssue: 17
+  commit: 572
+---
+---
+
