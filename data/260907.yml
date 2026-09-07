@@ -5,7 +5,7 @@ about:
   head: b0637c9
   archived: false
   latestVersion: "v0.1.7"
-  collectedAt: 2026-09-07T04:42:10Z
+  collectedAt: 2026-09-07T19:40:01Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-09-02
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 10291
   watcher: 114
-  fork: 7751
+  fork: 7750
   release: 10
   contributor: 29
   pullRequest: 250
@@ -87,7 +87,7 @@ total:
   commit: 572
 ---
 path: /home/runner/.x-repo/github.com/Kuberwastaken/claurst
-collectedAt: 2026-09-07T04:42:12Z
+collectedAt: 2026-09-07T19:40:04Z
 loc:
   Rust:
     code: 115579
@@ -158,7 +158,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:13+00:00
+  collectedAt: 2026-09-07T19:40:05+00:00
   platform:
     darwin/arm64:
       name:  claurst-macos-aarch64.tar.gz
