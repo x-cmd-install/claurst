@@ -4,7 +4,7 @@
 
 Agentic Coding for Builders who Ship
 
-![claurst](https://repo.x-cmd.io/claurst.svg)
+![claurst](https://repo.x-cmd.io/claurst.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,23 @@ x install claurst
 - **最新版本**: `v0.1.7` (2026-07-06)
 - **最近提交**: 2026-09-02
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-07-06T23:38:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-aarch64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-x86_64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-aarch64.tar.gz) | 13.0 MiB | `native/darwin/arm64` |
+| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-x86_64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
+| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-windows-x86_64.zip) | 14.5 MiB | `native/win/x64` |
+| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.ps1) | 10.7 KiB | `other` |
+| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.sh) | 12.7 KiB | `other` |
+| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/SHA256SUMS) | 626 B | `other` |
 
 ## 流行度
 
-- **Star**: 10,298 · **Fork**: 7,749 · **开放 issue**: 153 · **贡献者**: 29
+- **Star**: 10,297 · **Fork**: 7,749 · **开放 issue**: 153 · **贡献者**: 29
 
 ## 累计统计
 
@@ -62,4 +74,4 @@ claurst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:46Z._

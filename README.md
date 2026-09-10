@@ -23,11 +23,23 @@ x install claurst
 - **Latest**: `v0.1.7` (2026-07-06)
 - **Last commit**: 2026-09-02
 - **Assets in release**: 8
-- **Published**: 2026-07-06T23:38:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-aarch64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-x86_64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-aarch64.tar.gz) | 13.0 MiB | `native/darwin/arm64` |
+| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-x86_64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
+| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-windows-x86_64.zip) | 14.5 MiB | `native/win/x64` |
+| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.ps1) | 10.7 KiB | `other` |
+| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.sh) | 12.7 KiB | `other` |
+| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/SHA256SUMS) | 626 B | `other` |
 
 ## Popularity
 
-- **Stars**: 10,298 · **Forks**: 7,749 · **Open issues**: 153 · **Contributors**: 29
+- **Stars**: 10,297 · **Forks**: 7,749 · **Open issues**: 153 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -58,8 +70,8 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claurst` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/claurst.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claurst.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:50:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:45Z._
