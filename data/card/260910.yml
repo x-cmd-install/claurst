@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.7"
   latestRelease: "v0.1.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:58:47Z
+  collectedAt: 2026-09-10T22:48:46Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-09-02
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 10298
   watcher: 114
-  fork: 7749
+  fork: 7748
   release: 10
   contributor: 29
   pullRequest: 250
@@ -91,7 +91,7 @@ total:
   commit: 572
 ---
 path: /home/runner/.x-repo/github.com/Kuberwastaken/claurst
-collectedAt: 2026-09-10T20:58:49Z
+collectedAt: 2026-09-10T22:48:49Z
 loc:
   Rust:
     code: 115579
