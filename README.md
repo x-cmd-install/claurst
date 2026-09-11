@@ -38,7 +38,7 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,300 · **Forks**: 7,748 · **Open issues**: 153 · **Contributors**: 29
+- **Stars**: 10,301 · **Forks**: 7,745 · **Open issues**: 153 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:46:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:11:26Z._
