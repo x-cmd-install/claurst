@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14889736,
       "digest": "sha256:0f7decc0e151ee4023c3bda26f14e564e1b3685fdbc892d623d01c508fa71f22",
-      "download_count": 695,
+      "download_count": 697,
       "created_at": "2026-07-07T06:11:22Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10986,
       "digest": "sha256:bac2e592e4342bf4034ec774e08bef94db62296bd938c5187dbf76939c057676",
-      "download_count": 778,
+      "download_count": 779,
       "created_at": "2026-07-07T06:11:23Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.ps1"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12965,
       "digest": "sha256:372d86e928a9585128ae732e70e13b7f528c92ba6bf9b860330151f68de4f78e",
-      "download_count": 700,
+      "download_count": 701,
       "created_at": "2026-07-07T06:11:24Z",
       "updated_at": "2026-07-07T06:11:24Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 626,
       "digest": "sha256:c288703c0d98f06c71965062af656330fa7c0449674272351a3dafd57375e615",
-      "download_count": 1156,
+      "download_count": 1157,
       "created_at": "2026-07-07T06:20:45Z",
       "updated_at": "2026-07-07T06:20:45Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/SHA256SUMS"
