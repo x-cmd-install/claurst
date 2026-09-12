@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13917805,
       "digest": "sha256:365205ab3e92758a97be291965732faa7c8f3b114b20d9bbc9be1769c338e86d",
-      "download_count": 162,
+      "download_count": 163,
       "created_at": "2026-07-07T06:11:22Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14889736,
       "digest": "sha256:0f7decc0e151ee4023c3bda26f14e564e1b3685fdbc892d623d01c508fa71f22",
-      "download_count": 697,
+      "download_count": 699,
       "created_at": "2026-07-07T06:11:22Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13617893,
       "digest": "sha256:ae0ca9c49321f3ff10db03083899d2b2427896eb9b7f4f8b024c02c3c5f7f97b",
-      "download_count": 313,
+      "download_count": 314,
       "created_at": "2026-07-07T06:11:22Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10986,
       "digest": "sha256:bac2e592e4342bf4034ec774e08bef94db62296bd938c5187dbf76939c057676",
-      "download_count": 779,
+      "download_count": 780,
       "created_at": "2026-07-07T06:11:23Z",
       "updated_at": "2026-07-07T06:11:23Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.ps1"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 626,
       "digest": "sha256:c288703c0d98f06c71965062af656330fa7c0449674272351a3dafd57375e615",
-      "download_count": 1157,
+      "download_count": 1158,
       "created_at": "2026-07-07T06:20:45Z",
       "updated_at": "2026-07-07T06:20:45Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/SHA256SUMS"
