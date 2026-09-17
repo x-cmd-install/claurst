@@ -48,12 +48,12 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 1 | 12 | 0 | 5 | 14 |
-| last60d | 2026-07-18 | 0 | 10 | 15 | 2 | 8 | 27 |
-| 90d | 2026-06-18 | 2 | 94 | 15 | 53 | 9 | 286 |
-| last180d | 2026-03-20 | 10 | 145 | 15 | 136 | 17 | 497 |
-| 360d | 2025-09-21 | 10 | 145 | 15 | 136 | 17 | 497 |
-| last720d | 2024-09-26 | 10 | 145 | 15 | 136 | 17 | 572 |
+| 30d | 2026-08-18 | 0 | 1 | 12 | 0 | 5 | 14 |
+| last60d | 2026-07-19 | 0 | 10 | 15 | 2 | 8 | 27 |
+| 90d | 2026-06-19 | 2 | 94 | 15 | 51 | 9 | 286 |
+| last180d | 2026-03-21 | 10 | 145 | 15 | 136 | 17 | 497 |
+| 360d | 2025-09-22 | 10 | 145 | 15 | 136 | 17 | 497 |
+| last720d | 2024-09-27 | 10 | 145 | 15 | 136 | 17 | 572 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:01:13Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:09:58Z._
