@@ -4,7 +4,7 @@
 
 Agentic Coding for Builders who Ship
 
-![claurst](https://repo.x-cmd.io/claurst.svg)
+[![x-cmd/install — claurst Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claurst.svg)](https://x-cmd.com/install/claurst)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,305 · **Forks**: 7,739 · **Open issues**: 153 · **Contributors**: 29
+- **Stars**: 10,300 · **Forks**: 7,738 · **Open issues**: 154 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 145 · **Open PRs**: 15 · **Closed issues**: 136 · **Open issues**: 17 · **Commits**: 572
+- **Releases**: 10 · **Merged PRs**: 145 · **Open PRs**: 15 · **Closed issues**: 136 · **Open issues**: 18 · **Commits**: 572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 12 | 0 | 5 | 14 |
-| last60d | 2026-07-20 | 0 | 10 | 15 | 2 | 8 | 27 |
-| 90d | 2026-06-20 | 2 | 94 | 15 | 51 | 8 | 286 |
-| last180d | 2026-03-22 | 10 | 145 | 15 | 136 | 17 | 497 |
-| 360d | 2025-09-23 | 10 | 145 | 15 | 136 | 17 | 497 |
-| last720d | 2024-09-28 | 10 | 145 | 15 | 136 | 17 | 572 |
+| 30d | 2026-08-21 | 0 | 1 | 12 | 0 | 5 | 14 |
+| last60d | 2026-07-22 | 0 | 8 | 15 | 1 | 9 | 27 |
+| 90d | 2026-06-22 | 2 | 94 | 15 | 51 | 9 | 286 |
+| last180d | 2026-03-24 | 10 | 145 | 15 | 136 | 18 | 497 |
+| 360d | 2025-09-25 | 10 | 145 | 15 | 136 | 18 | 497 |
+| last720d | 2024-09-30 | 10 | 145 | 15 | 136 | 18 | 572 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:44Z._
