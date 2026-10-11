@@ -38,22 +38,22 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,319 · **Forks**: 7,702 · **Open issues**: 156 · **Contributors**: 29
+- **Stars**: 10,319 · **Forks**: 7,701 · **Open issues**: 157 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 145 · **Open PRs**: 26 · **Closed issues**: 136 · **Open issues**: 20 · **Commits**: 572
+- **Releases**: 10 · **Merged PRs**: 145 · **Open PRs**: 26 · **Closed issues**: 136 · **Open issues**: 21 · **Commits**: 572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 12 | 0 | 3 | 0 |
-| last60d | 2026-08-11 | 0 | 1 | 23 | 0 | 9 | 14 |
-| 90d | 2026-07-12 | 0 | 17 | 26 | 5 | 11 | 49 |
-| last180d | 2026-04-13 | 8 | 135 | 26 | 83 | 16 | 415 |
-| 360d | 2025-10-15 | 10 | 145 | 26 | 136 | 20 | 497 |
-| last720d | 2024-10-20 | 10 | 145 | 26 | 136 | 20 | 572 |
+| 30d | 2026-09-11 | 0 | 0 | 12 | 0 | 4 | 0 |
+| last60d | 2026-08-12 | 0 | 1 | 23 | 0 | 10 | 14 |
+| 90d | 2026-07-13 | 0 | 16 | 26 | 5 | 12 | 49 |
+| last180d | 2026-04-14 | 8 | 133 | 26 | 80 | 17 | 415 |
+| 360d | 2025-10-16 | 10 | 145 | 26 | 136 | 21 | 497 |
+| last720d | 2024-10-21 | 10 | 145 | 26 | 136 | 21 | 572 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:10:12Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:54:06Z._
