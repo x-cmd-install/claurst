@@ -14,13 +14,13 @@ x install claurst
 
 ## Code insight
 
-Total: **119,342** lines of code across **314** files in the top 5 languages.
+Total: **133,195** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 115,579 | 9,990 | 14,025 | 294 |
+| Rust | 129,425 | 10,586 | 15,071 | 304 |
+| Toml | 573 | 56 | 65 | 13 |
 | Css | 566 | 23 | 48 | 2 |
-| Toml | 566 | 54 | 62 | 13 |
 | Sh | 564 | 25 | 20 | 2 |
 | JavaScript | 538 | 16 | 56 | 3 |
 
@@ -32,41 +32,41 @@ Total: **119,342** lines of code across **314** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.7` (2026-07-06)
-- **Last commit**: 2026-09-02
+- **Latest**: `v0.1.8` (2026-10-13)
+- **Last commit**: 2026-10-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 10,321 · **Forks**: 7,699 · **Open issues**: 157 · **Contributors**: 29
+- **Stars**: 10,316 · **Forks**: 7,697 · **Open issues**: 191 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 145 · **Open PRs**: 26 · **Closed issues**: 136 · **Open issues**: 21 · **Commits**: 572
+- **Releases**: 11 · **Merged PRs**: 173 · **Open PRs**: 19 · **Closed issues**: 165 · **Open issues**: 26 · **Commits**: 679
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 11 | 0 | 4 | 0 |
-| last60d | 2026-08-14 | 0 | 1 | 23 | 0 | 10 | 14 |
-| 90d | 2026-07-15 | 0 | 16 | 26 | 4 | 12 | 27 |
-| last180d | 2026-04-16 | 8 | 133 | 26 | 76 | 17 | 407 |
-| 360d | 2025-10-18 | 10 | 145 | 26 | 136 | 21 | 497 |
-| last720d | 2024-10-23 | 10 | 145 | 26 | 136 | 21 | 572 |
+| 30d | 2026-09-14 | 1 | 22 | 13 | 17 | 21 | 92 |
+| last60d | 2026-08-15 | 1 | 28 | 19 | 22 | 22 | 106 |
+| 90d | 2026-07-16 | 1 | 38 | 19 | 28 | 22 | 119 |
+| last180d | 2026-04-17 | 9 | 160 | 19 | 103 | 23 | 499 |
+| 360d | 2025-10-19 | 11 | 173 | 19 | 165 | 26 | 589 |
+| last720d | 2024-10-24 | 11 | 173 | 19 | 165 | 26 | 679 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-aarch64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-linux-x86_64.tar.gz) | 14.2 MiB | `native/linux/x64` |
-| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-aarch64.tar.gz) | 13.0 MiB | `native/darwin/arm64` |
-| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-macos-x86_64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
-| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/claurst-windows-x86_64.zip) | 14.5 MiB | `native/win/x64` |
-| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.ps1) | 10.7 KiB | `other` |
-| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/install.sh) | 12.7 KiB | `other` |
-| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.7/SHA256SUMS) | 626 B | `other` |
+| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-linux-aarch64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
+| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-linux-x86_64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-macos-aarch64.tar.gz) | 13.0 MiB | `native/darwin/arm64` |
+| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-macos-x86_64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
+| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-windows-x86_64.zip) | 14.6 MiB | `native/win/x64` |
+| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/install.ps1) | 12.2 KiB | `other` |
+| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/install.sh) | 19.1 KiB | `other` |
+| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/SHA256SUMS) | 626 B | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:01:30Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:58:29Z._
