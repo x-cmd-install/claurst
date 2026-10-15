@@ -14,12 +14,12 @@ x install claurst
 
 ## 代码洞察
 
-合计: **133,195** 行代码（覆盖前 5 种语言、共 **324** 个文件）。
+合计: **139,831** 行代码（覆盖前 5 种语言、共 **331** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 129,425 | 10,586 | 15,071 | 304 |
-| Toml | 573 | 56 | 65 | 13 |
+| Rust | 136,053 | 10,742 | 15,464 | 311 |
+| Toml | 577 | 57 | 66 | 13 |
 | Css | 566 | 23 | 48 | 2 |
 | Sh | 564 | 25 | 20 | 2 |
 | JavaScript | 538 | 16 | 56 | 3 |
@@ -32,41 +32,41 @@ x install claurst
 
 ## 发布
 
-- **最新版本**: `v0.1.8` (2026-10-13)
+- **最新版本**: `v0.2.0` (2026-10-14)
 - **最近提交**: 2026-10-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 10,316 · **Fork**: 7,697 · **开放 issue**: 191 · **贡献者**: 32
+- **Star**: 10,316 · **Fork**: 7,703 · **开放 issue**: 200 · **贡献者**: 32
 
 ## 累计统计
 
-- **发布数**: 11 · **已合并 PR**: 173 · **开放 PR**: 19 · **已关闭 issue**: 165 · **开放 issue**: 26 · **提交数**: 679
+- **发布数**: 12 · **已合并 PR**: 181 · **开放 PR**: 15 · **已关闭 issue**: 171 · **开放 issue**: 29 · **提交数**: 788
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 22 | 13 | 17 | 21 | 92 |
-| last60d | 2026-08-15 | 1 | 28 | 19 | 22 | 22 | 106 |
-| 90d | 2026-07-16 | 1 | 38 | 19 | 28 | 22 | 119 |
-| last180d | 2026-04-17 | 9 | 160 | 19 | 103 | 23 | 499 |
-| 360d | 2025-10-19 | 11 | 173 | 19 | 165 | 26 | 589 |
-| last720d | 2024-10-24 | 11 | 173 | 19 | 165 | 26 | 679 |
+| 30d | 2026-09-15 | 2 | 30 | 9 | 23 | 24 | 173 |
+| last60d | 2026-08-16 | 2 | 36 | 15 | 28 | 25 | 187 |
+| 90d | 2026-07-17 | 2 | 46 | 15 | 32 | 25 | 200 |
+| last180d | 2026-04-18 | 10 | 168 | 15 | 109 | 26 | 580 |
+| 360d | 2025-10-20 | 12 | 181 | 15 | 171 | 29 | 670 |
+| last720d | 2024-10-25 | 12 | 181 | 15 | 171 | 29 | 788 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-linux-aarch64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
-| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-linux-x86_64.tar.gz) | 14.3 MiB | `native/linux/x64` |
-| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-macos-aarch64.tar.gz) | 13.0 MiB | `native/darwin/arm64` |
-| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-macos-x86_64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
-| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/claurst-windows-x86_64.zip) | 14.6 MiB | `native/win/x64` |
-| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/install.ps1) | 12.2 KiB | `other` |
-| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/install.sh) | 19.1 KiB | `other` |
-| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.1.8/SHA256SUMS) | 626 B | `other` |
+| [claurst-linux-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-linux-aarch64.tar.gz) | 13.7 MiB | `native/linux/arm64` |
+| [claurst-linux-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-linux-x86_64.tar.gz) | 14.6 MiB | `native/linux/x64` |
+| [claurst-macos-aarch64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-macos-aarch64.tar.gz) | 13.3 MiB | `native/darwin/arm64` |
+| [claurst-macos-x86_64.tar.gz](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-macos-x86_64.tar.gz) | 14.3 MiB | `native/darwin/x64` |
+| [claurst-windows-x86_64.zip](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-windows-x86_64.zip) | 14.9 MiB | `native/win/x64` |
+| [install.ps1](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/install.ps1) | 12.2 KiB | `other` |
+| [install.sh](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/install.sh) | 19.1 KiB | `other` |
+| [SHA256SUMS](https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/SHA256SUMS) | 626 B | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ claurst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T04:58:29Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:45:03Z._
