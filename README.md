@@ -38,7 +38,7 @@ Total: **140,286** lines of code across **331** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,326 · **Forks**: 7,705 · **Open issues**: 200 · **Contributors**: 33
+- **Stars**: 10,324 · **Forks**: 7,685 · **Open issues**: 200 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **140,286** lines of code across **331** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 35 | 22 | 25 | 21 | 186 |
-| last60d | 2026-08-22 | 2 | 41 | 28 | 27 | 21 | 187 |
-| 90d | 2026-07-23 | 2 | 49 | 28 | 34 | 22 | 210 |
-| last180d | 2026-04-24 | 10 | 170 | 28 | 112 | 23 | 586 |
-| 360d | 2025-10-26 | 12 | 186 | 28 | 174 | 26 | 683 |
-| last720d | 2024-10-31 | 12 | 186 | 28 | 174 | 26 | 806 |
+| 30d | 2026-09-22 | 2 | 35 | 22 | 25 | 21 | 186 |
+| last60d | 2026-08-23 | 2 | 41 | 28 | 26 | 21 | 187 |
+| 90d | 2026-07-24 | 2 | 49 | 28 | 33 | 22 | 210 |
+| last180d | 2026-04-25 | 10 | 169 | 28 | 112 | 22 | 586 |
+| 360d | 2025-10-27 | 12 | 186 | 28 | 174 | 26 | 683 |
+| last720d | 2024-11-01 | 12 | 186 | 28 | 174 | 26 | 806 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:45:13Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:50:20Z._
