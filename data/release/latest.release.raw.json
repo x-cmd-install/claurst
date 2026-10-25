@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14335953,
       "digest": "sha256:01f709539b9489915bb11a0b3b005aef1f91a6661e77c0478ad2876222ab807b",
-      "download_count": 42,
+      "download_count": 47,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:15Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-linux-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15342877,
       "digest": "sha256:d26a22f4ab2852b5d687219e0715bb1bfd7debd79efce68322d08d566b8eecef",
-      "download_count": 144,
+      "download_count": 158,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:15Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13993765,
       "digest": "sha256:bf71fea2aed0f7d4f11f68841cf95e1c20db1dde3519112308f70aa3f389e0d9",
-      "download_count": 61,
+      "download_count": 65,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:14Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-macos-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14951235,
       "digest": "sha256:a105fe400174bb00dbadd8a1ad85f5329e9c93ec51c18ef6cbd4d1c86dadbabf",
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:15Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-macos-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15665039,
       "digest": "sha256:e9c663486f5094ee4f0fc1783e2bf9cf63606ccafa60e8e69fd1d84ceed33f45",
-      "download_count": 95,
+      "download_count": 101,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:15Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/claurst-windows-x86_64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12456,
       "digest": "sha256:50415ccf63103c27c466a8d969804017d5423e32f0ae6be61a1657a7be21bf25",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:14Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/install.ps1"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19542,
       "digest": "sha256:508b47b4c024fb5f976527244f0bcce395f656f121f439662ae3d1fa31a6a5c2",
-      "download_count": 48,
+      "download_count": 55,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:14Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/install.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 626,
       "digest": "sha256:b54e94116e63caece521da54f0ca2302a925fc95d142982925df56e2ba9a7809",
-      "download_count": 95,
+      "download_count": 103,
       "created_at": "2026-10-14T07:28:14Z",
       "updated_at": "2026-10-14T07:28:14Z",
       "browser_download_url": "https://github.com/Kuberwastaken/claurst/releases/download/v0.2.0/SHA256SUMS"
