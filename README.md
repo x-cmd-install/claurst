@@ -14,12 +14,12 @@ x install claurst
 
 ## Code insight
 
-Total: **155,620** lines of code across **349** files in the top 5 languages.
+Total: **155,641** lines of code across **349** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 151,739 | 11,706 | 16,373 | 328 |
-| Toml | 605 | 60 | 73 | 14 |
+| Rust | 151,759 | 11,707 | 16,374 | 328 |
+| Toml | 606 | 60 | 73 | 14 |
 | Css | 566 | 23 | 48 | 2 |
 | Sh | 564 | 25 | 20 | 2 |
 | JavaScript | 538 | 16 | 56 | 3 |
@@ -33,27 +33,27 @@ Total: **155,620** lines of code across **349** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.1` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-22
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 10,346 · **Forks**: 7,639 · **Open issues**: 200 · **Contributors**: 35
+- **Stars**: 10,345 · **Forks**: 7,637 · **Open issues**: 200 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 215 · **Open PRs**: 3 · **Closed issues**: 178 · **Open issues**: 22 · **Commits**: 994
+- **Releases**: 13 · **Merged PRs**: 216 · **Open PRs**: 2 · **Closed issues**: 178 · **Open issues**: 22 · **Commits**: 996
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 9 | 3 | 0 | 0 | 43 |
-| last60d | 2026-09-23 | 3 | 59 | 3 | 29 | 17 | 278 |
-| 90d | 2026-08-24 | 3 | 67 | 3 | 30 | 17 | 283 |
-| last180d | 2026-05-26 | 6 | 168 | 3 | 99 | 18 | 577 |
-| 360d | 2025-11-27 | 13 | 215 | 3 | 178 | 22 | 780 |
-| last720d | 2024-12-02 | 13 | 215 | 3 | 178 | 22 | 994 |
+| 30d | 2026-10-24 | 1 | 9 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 3 | 60 | 2 | 29 | 17 | 0 |
+| 90d | 2026-08-25 | 3 | 68 | 2 | 30 | 17 | 0 |
+| last180d | 2026-05-27 | 6 | 169 | 2 | 97 | 18 | 0 |
+| 360d | 2025-11-28 | 13 | 216 | 2 | 178 | 22 | 0 |
+| last720d | 2024-12-03 | 13 | 216 | 2 | 178 | 22 | 996 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for claurst lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:06:45Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:35:39Z._
